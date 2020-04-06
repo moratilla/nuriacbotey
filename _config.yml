@@ -13,22 +13,49 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Descubriendo a Nuria C. Botey
+email: nuriacbotey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: nuriacbotey
+github_username:  nuriacbotey
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hydejack
 plugins: []
 #  - jekyll-feed
+
+# Hydejack customization
+# accent_image: /assets/img/HAL900.jpg
+accent_image:
+  background: '#800080' # provide a valid CSS background value
+  overlay:    false     # set to true if you want a dark overlay
+font:         "'Roboto Slab', Helvetica, Arial, sans-serif"
+font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
+google_fonts: "Roboto+Slab:700|Noto+Sans:400,400i,700,700i"
+
+# sidebar
+defaults:
+  - scope:
+      path: paginas/quien_soy.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: paginas/premios.md
+    values:
+      menu: true
+      order: 2
+  - scope:
+      path: paginas/publicaciones.md
+    values:
+      menu: true
+      order: 3
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +68,5 @@ plugins: []
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
