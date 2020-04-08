@@ -17,7 +17,7 @@ This site uses [jekyllrb](https://jekyllrb.com/), and [hydejack](https://hydejac
 Just download the code, and edit it, or use an online tool like [gitpod.io](https://gitpod.io/)
  to edit the code.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/<your-org>/<your-project>)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/moratilla/nuriacbotey)
 
 
 ## Build
