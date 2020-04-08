@@ -1,0 +1,34 @@
+---
+layout: base
+---
+
+<img src="/assets/img/logo_nuriacbotey_1500x500.jpg">
+
+{% assign strings = site.data.strings %}
+
+<article class="page" role="article">
+  <header>
+    <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
+    {% include components/message.html text=page.description hide=page.hide_description %}
+  </header>
+
+  {{ content }}
+
+  <hr class="dingbat"/>
+
+
+</article>
+{% assign plugins = site.plugins | default:site.gems %}
+
+{% if plugins contains 'jekyll-paginate' %}
+  {% for post in paginator.posts %}
+    {% include components/post.html post=post no_link_title=page.no_link_title no_excerpt=page.no_excerpt hide_image=page.hide_image %}
+  {% endfor %}
+
+  {% include components/pagination.html %}
+{% else %}
+  {% capture text %}To use this layout, include the `jekyll-paginate` plugin in your `Gemfile` and your `_config.yml` under `plugins`.
+For more, see [Jekyll Pagination](https://jekyllrb.com/docs/pagination/).{% endcapture %}
+  {% include components/message.html text=text %}
+{% endif %}
+
