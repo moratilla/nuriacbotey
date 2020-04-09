@@ -30,9 +30,9 @@ plugins:
   - jekyll-feed
   - jekyll-default-layout
   - jekyll-paginate
+  - jekyll-twitter-plugin
 
 # Hydejack customization
-
 logo: /assets/img/logo_nuriacbotey_400x400.jpg
 
 # This text will appear in a `<small>` tag in the footer of every page.
@@ -43,7 +43,7 @@ paginate:              10
 paginate_path:         /page-:num/
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title.html
 
 # accent_image: /assets/img/HAL900.jpg
 accent_image:
