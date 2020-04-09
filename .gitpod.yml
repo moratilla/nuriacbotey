@@ -9,6 +9,10 @@ tasks:
       bundle
       bundle exec jekyll serve
 
+  - test: echo "Testing phase"
+    command: |
+      bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
+      
 # Ports to expose on workspace startup (optional)
 ports:
   - port: 4000
