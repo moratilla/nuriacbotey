@@ -36,14 +36,14 @@ plugins:
 logo: /assets/img/logo_nuriacbotey_400x400.jpg
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2020. Todos los derechos reservados.
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /page-:num/
 
 # Format of the permalinks
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title/
 
 # accent_image: /assets/img/HAL900.jpg
 accent_image:
