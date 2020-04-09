@@ -4,7 +4,10 @@ title: Premios
 permalink: /premios/
 ---
 
-![](/assets/img/podio.gif)La primera vocación de Nuria C. Botey siempre fue la de contar cuentos, antes incluso de saber escribirlos.
+![Mortadelo y Filemón en el podio](/assets/img/podio.gif){:.lead  data-width="225" data-height="340"}
+Premios recibidos
+{:.figure}
+La primera vocación de Nuria C. Botey siempre fue la de contar cuentos, antes incluso de saber escribirlos.
 
 Eso sí, desde que aprendió a hacerlo hasta ahora le ha dado tiempo a participar en distintos certámenes, con resultados bastante favorables.
 
@@ -25,5 +28,7 @@ Eso sí, desde que aprendió a hacerlo hasta ahora le ha dado tiempo a participa
 * Fuego.Certamen Jóvenes Creadores Madrid (2004) Seleccionado -inédito-
 * Tocata y fuga. I Certamen Cuentos sobre Ruedas (2001) Seleccionado
  
-![](/assets/img/clarin_mejor.jpg)
+![Foto Premio Clarín](/assets/img/clarin_mejor.jpg){:.lead}
+Premio Clarín 2004 de la AEYAE
+{:.figure}
 

@@ -45,4 +45,6 @@ Hasta la fecha, Nuria C. Botey ha publicado:
 * Sobre Los chicos de la Costa Azul . Narrativa Gay. Mayo 2009
 * Someone has to be first: an interview with Nuria C. Botey . The Broadsheet: Newsletter for Broad Universe.October, 2005
 
-![](/assets/img/galaxia6001.jpg)
+![Portada revista Galaxia Número 6](/assets/img/galaxia6001.jpg){:.lead}
+Portada revista Galaxia Número 6
+{:.figure}
