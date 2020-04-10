@@ -46,7 +46,7 @@ paginate_path:         /page-:num/
 permalink: /:year/:month/:day/:title/
 
 # accent_image: /assets/img/HAL900.jpg
-accent_image:
+accent_image: /assets/img/efe-kurnaz-RnCPiXixooY-unsplash.jpg
   background: '#800080' # provide a valid CSS background value
   overlay:    false     # set to true if you want a dark overlay
 font:         "'Roboto Slab', Helvetica, Arial, sans-serif"
