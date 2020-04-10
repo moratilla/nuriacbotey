@@ -27,7 +27,7 @@ plugins:
   - jekyll-twitter-plugin
 
 # Google Analytics
-google_analytics: UA-124601299-1
+google_analytics: UA-163356808-1
 
 # Hydejack customization
 accent_image: /assets/img/efe-kurnaz-RnCPiXixooY-unsplash.jpg
