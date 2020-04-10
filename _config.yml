@@ -32,6 +32,9 @@ plugins:
   - jekyll-paginate
   - jekyll-twitter-plugin
 
+# Google Analytics
+google_analytics: UA-124601299-1
+
 # Hydejack customization
 logo: /assets/img/logo_nuriacbotey_400x400.jpg
 
