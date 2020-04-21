@@ -8,6 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: nuriacbotey
 github_username:  nuriacbotey
 logo: /assets/img/logo_nuriacbotey_400x400.jpg
+url: "https://www.nuriacbotey.es"
 
 # Authors
 author:
@@ -21,10 +22,12 @@ author:
 markdown: kramdown
 theme: jekyll-theme-hydejack
 plugins:
-  - jekyll-feed
   - jekyll-default-layout
+  - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-twitter-plugin
+  - jekyll-youtube
 
 # Google Analytics
 google_analytics: UA-163356808-1
