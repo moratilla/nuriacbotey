@@ -9,6 +9,14 @@ Nuria C. Botey (Madrid, 1977)
 Doctora en Psicología Social, profesora universitaria y narradora antes de saber coger el lápiz.
 He formado parte de la Tertulia Madrileña de Literatura Fantástica (TerMa), de la Asociación Española de Escritores de Terror Nocte y del grupo literario La Hermandad Poe. Cultivo la  fantasía oscura, el terror, el romance homoerótico y el thriller en formato de cuento y novela. 
 
+PREMIOS 
+-Premio Nocte 2013 a la mejor antología nacional de relatos por "Vosotros justificáis mi existencia" (Ediciones Saco de Huesos, 2012) [Disponible como "Nunca beses a un extraño" (2016)](https://rxe.me/B01J1KBX14)
+-VI Premio de Relato Breve Solidaridad Obrera “Un metro de 350 palabras” (2008) Segundo Premio por el relato breve "Taquillera."
+-IV Premio de Relato Breve Solidaridad Obrera “Un metro de 350 palabras” (2006) Cuarto Premio por el relato breve "Suburbano."
+-XVII Premio Clarín de Cuentos (2004) por el relato "Vosotros justificáis mi existencia."
+-XII Premio Internacional Pablo Rido de Relato Fantástico (2003) por el relato "Dancing with an angel." 
+-I Concurso Literario Los Nuevos de Alfaguara (1993) por el relato "Una auténtica pena."
+
 ![Premio Pablo Rido de Literatura Fantástica 2003](/assets/img/rido_web.jpg){:.lead}
 Premio Pablo Rido de Literatura Fantástica 2003
 {:.figure}

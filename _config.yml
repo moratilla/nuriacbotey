@@ -1,10 +1,9 @@
 # Welcome to Jekyll!
 #
-title: Descubriendo a Nuria C. Botey
+title: Nuria C. Botey
 email: nuriacbotey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hola, soy @nuriacbotey.  Aquí encontrarás información
-  acerca de mí y mis publicaciones.
+  Página oficial de la escritora Nuria C. Botey
 twitter_username: nuriacbotey
 github_username:  nuriacbotey
 logo: /assets/img/logo_nuriacbotey_400x400.jpg
@@ -55,15 +54,10 @@ defaults:
       menu: true
       order: 1
   - scope:
-      path: paginas/premios.md
-    values:
-      menu: true
-      order: 2
-  - scope:
       path: paginas/publicaciones.md
     values:
       menu: true
-      order: 3
+      order: 2
 
 # Exclude from processing.
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
