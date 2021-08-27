@@ -7,12 +7,15 @@ permalink: /publicaciones/
 Hasta la fecha, Nuria C. Botey ha publicado:
 
 ## Novelas
-* Hollywood Life , Odisea Editorial, 2008 (seudónimo, Pablo Castro)
-* Los chicos de la Costa Azul, Odisea Editorial, 2007 (seudónimo, Pablo Castro)
+* Plata Pura (Ediciones T&T, 2021)
+* Costa Azul (2017, (http://rxe.me/M85MGW))
+* Hollywood Life (Odisea editorial, 2008)
 
-## Cuentos en...
+### Antologías propias
+* Nunca beses a un extraño (2017)(http://rxe.me/B01J1KBX14), antes "Vosotros justificáis mi existencia" (Saco de Huesos, 2012)
+* #Inquietante (2017)(http://rxe.me/6MN0D2), antes "Mosquitos en tu alcoba" (Amargord Ediciones, 2014)
 
-### Antologías
+### Relatos
 * Pityocampa. Paura volumen 4 -Portal Editions , 2009-
 * Mariposas. Grageas, cuentos breves del mundo -Ediciones desde la gente, 2007-
 * Excursión. Nubes de papel  -Ex Libris 2006-
