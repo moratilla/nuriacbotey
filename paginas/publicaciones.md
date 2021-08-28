@@ -4,16 +4,15 @@ title: Publicaciones
 permalink: /publicaciones/
 ---
 
-Hasta la fecha, Nuria C. Botey ha publicado:
 
 ## Novelas
 * Plata Pura (Ediciones T&T, 2021)
-* Costa Azul (2017, (http://rxe.me/M85MGW))
+* [Costa Azul (2017)](https://rxe.me/M85MGW)
 * Hollywood Life (Odisea editorial, 2008)
 
 ### Antologías propias
-* Nunca beses a un extraño (2017)(http://rxe.me/B01J1KBX14), antes "Vosotros justificáis mi existencia" (Saco de Huesos, 2012)
-* #Inquietante (2017)(http://rxe.me/6MN0D2), antes "Mosquitos en tu alcoba" (Amargord Ediciones, 2014)
+* [Nunca beses a un extraño (2017)](https://rxe.me/B01J1KBX14), antes "Vosotros justificáis mi existencia" (Saco de Huesos, 2012)
+* [#Inquietante (2017)](https://rxe.me/6MN0D2), antes "Mosquitos en tu alcoba" (Amargord Ediciones, 2014)
 
 ### Relatos
 * Pityocampa. Paura volumen 4 -Portal Editions , 2009-
@@ -35,7 +34,7 @@ Hasta la fecha, Nuria C. Botey ha publicado:
 * Mañana. El Parnaso, 2
 * Dancing with an angel. Galaxia, 5
 
-     Revistas on-line
+### Revistas on-line
 * Nunca beses a un extraño , Axxón 171
 * Dancing with an angel , Axxón 164
 * Benemérita , Ediciones Efimeras - Efímero, 60
@@ -47,7 +46,3 @@ Hasta la fecha, Nuria C. Botey ha publicado:
 * Sobre Hollywood Life . Narrativa Gay. Mayo 2009
 * Sobre Los chicos de la Costa Azul . Narrativa Gay. Mayo 2009
 * Someone has to be first: an interview with Nuria C. Botey . The Broadsheet: Newsletter for Broad Universe.October, 2005
-
-![Portada revista Galaxia Número 6](/assets/img/galaxia6001.jpg){:.lead}
-Portada revista Galaxia Número 6
-{:.figure}
