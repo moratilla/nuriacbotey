@@ -7,7 +7,7 @@ permalink: /quien-soy/
 Nuria C. Botey (Madrid, 1977)
 
 Doctora en Psicología Social, profesora universitaria y narradora antes de saber coger el lápiz.
-He formado parte de la Tertulia Madrileña de Literatura Fantástica (TerMa), de la Asociación Española de Escritores de Terror Nocte y del grupo literario La Hermandad Poe. Cultivo la  fantasía oscura, el terror, el romance homoerótico y el thriller en formato de cuento y novela. 
+He formado parte de la Tertulia Madrileña de Literatura Fantástica (TerMa), de la Asociación Española de Escritores de Terror Nocte y del grupo literario La Hermandad Poe. Cultivo la  fantasía oscura, el terror, el romance y el thriller en formato de cuento y novela. 
 
 PREMIOS 
 - Premio Nocte 2013 a la mejor antología nacional de relatos por "Vosotros justificáis mi existencia" (Ediciones Saco de Huesos, 2012) [Disponible como "Nunca beses a un extraño" (2016)](https://rxe.me/B01J1KBX14)
