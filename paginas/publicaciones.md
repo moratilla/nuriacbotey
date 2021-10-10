@@ -58,6 +58,9 @@ permalink: /publicaciones/
 * *[Nunca beses a un extraño, Axxón 171](http://axxon.com.ar/rev/171/c-171cuento2.htm)*
 * *[Dancing with an angel, Axxón 164](http://axxon.com.ar/rev/164/c-164cuento1.htm)*
 
+### Artículos académicos sobre la obra de Nuria C. Botey
+* *[Motherhood in Literature and Culture: Interdisciplinary Perspectives from Europe.](https://books.google.es/books?id=mAcqDwAAQBAJ&pg=PT174&lpg=PT174&dq=nuria+c+botey&source=bl&ots=pswRsnwUhh&sig=it85D5nx-61XF1KgiDCkad1B2E8&hl=es&sa=X&ved=0ahUKEwj159Ts1vvYAhXJaxQKHT4JDU04FBDoAQhWMAk#v=onepage&q=nuria%20c%20botey&f=false)* Nuria C. Botey's Short Story 'Viviendo con el tío Roy'. Motherhood and Risk Assessment under Duress
+
 ### Entrevista
 * [Creadores de Mundos. Nuria C. Botey](https://youtu.be/A1BFg1l2Mng)
 
