@@ -64,3 +64,4 @@ permalink: /publicaciones/
 ### Entrevista
 * [Creadores de Mundos. Nuria C. Botey](https://youtu.be/A1BFg1l2Mng)
 
+![Premio Los Nuevos de Alfaguara](/assets/img/Medalla Los Nuevos de Alfaguara_edited.jpg)
