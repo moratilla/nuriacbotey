@@ -3,7 +3,7 @@ layout: post
 title: Entrevista en Cooltura Queer
 ---
 
-![Logotipo Cooltura Queer](/assets/img/CQ-logo.png){:.lead}
+![Logotipo Cooltura Queer](/assets/img/CQ-logo.png){:.lead data-width="200"}
 
 
 Javier Quevedo (@JQuevedoPuchal) y Libertad Morán (@LibertadMoran) me invitaron a hablar sobre "Plata Pura" en *Cooltura Queer* (@cooltura_queer en Instagram),  podcast dedicado a la cultura LGTBI+ audiovisual y literaria. 
