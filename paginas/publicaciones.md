@@ -6,8 +6,9 @@ permalink: /publicaciones/
 
 
 ## Novelas
-* *Plata Pura* (Ediciones T&T, 2021)
-* *[Costa Azul (2017)](https://rxe.me/M85MGW)*
+* *[Plata Pura (Ediciones T&T, 2021)](https://amzn.eu/d/2hOuqTB)*
+* *[Hijos de Saturno (Harlequin, 2021](https://amzn.eu/d/3A7dDs1)*
+* *Costa Azul* (2017)
 * *Hollywood Life* (Odisea editorial, 2008)
 
 ### Antologías propias
