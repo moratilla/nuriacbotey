@@ -10,4 +10,4 @@ Charlaré con José Sevilla, director del programa "Agente de la Continental", d
 
 Sintoniza el 95.4 FM si estás en Madrid a las 16h y sírvete un café. Negro, muy negro.
 
-Si quieres escucharlo desde fuera de Madrid, https://www.radiointercontinental.net/
+Si quieres escucharlo desde fuera de Madrid *[Radio Intercontinental](https://www.radiointercontinental.net/)*
