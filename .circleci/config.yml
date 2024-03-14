@@ -16,7 +16,7 @@ jobs:
             - rubygems-v1-fallback
       - run:
           name: Install bundler
-          command: gem install bundler
+          command: gem install bundler -v 2.3.27
       - run:
           name: Bundle Install
           command: bundle check || bundle install
