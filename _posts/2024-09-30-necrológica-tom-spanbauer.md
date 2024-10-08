@@ -25,5 +25,6 @@ La Tierra del Coyote está en todas partes. Y la Luna sabe cuál es su sitio en 
 
 Hasta siempre, amigo.
 
-Tom Spanbauer (1946-2024) 
+Tom Spanbauer (1946-2024)
+ 
 ![Tom Spanbauer](/assets/img/Tom_Spanbauer.jpg){:.lead data-width="200"}
