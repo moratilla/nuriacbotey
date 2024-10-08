@@ -3,6 +3,7 @@ layout: post
 title: El hombre que amó a la Luna
 ---
 
+
 Sabía que ocurriría, más pronto que tarde. Era cuestión de biología.
 
 Nacemos, crecemos y sobrevivimos hasta que el cuerpo pone punto final. Algunos se reproducen en nuevos seres humanos, porciones de ADN más o menos parecidas a sí mismos. Otros lo hacen con obras de arte, con negocios, con acciones que marcan a los demás de muchas formas. Todos dejamos huellas, superficiales o profundas, indelebles o volátiles. Las tuyas fueron extrañas, irregulares, invisibles para el gran público, imborrables para tus lectores. 
