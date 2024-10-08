@@ -3,6 +3,7 @@ layout: post
 title: El hombre que amó a la Luna
 ---
 
+![Novelas de Tom Spanbauer](/assets/img/Collage_novelas_Spanbauer.jpg){:.lead data-width="200"}
 
 Sabía que ocurriría, más pronto que tarde. Era cuestión de biología.
 
@@ -25,3 +26,4 @@ La Tierra del Coyote está en todas partes. Y la Luna sabe cuál es su sitio en 
 Hasta siempre, amigo.
 
 Tom Spanbauer (1946-2024) 
+![Tom Spanbauer](/assets/img/Tom_Spanbauer.jpg){:.lead data-width="200"}
