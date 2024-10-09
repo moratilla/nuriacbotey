@@ -34,7 +34,7 @@ jobs:
   deploy:
     <<: *defaults
     docker:
-      - image: circleci/python:3.6.3
+      - image: circleci/python:3.9.9
     environment:
       S3_BUCKET_NAME: www.nuriacbotey.es
     steps:
