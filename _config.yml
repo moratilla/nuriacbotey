@@ -5,7 +5,7 @@ email: nuriacbotey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Página oficial
 twitter_username: nuriacbotey
-github_username:  nuriacbotey
+github_username: nuriacbotey
 logo: /assets/img/perfil_nuriacbotey_2021_300x400.png
 url: "https://www.nuriacbotey.es"
 
@@ -37,14 +37,14 @@ font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
 google_fonts: "Roboto+Slab:700|Noto+Sans:400,400i,700,700i"
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. Todos los derechos reservados.
+copyright: © 2024. Todos los derechos reservados.
 
 # Format of the permalinks
 permalink: /:year/:month/:day/:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /page-:num/
+paginate: 10
+paginate_path: /page-:num/
 
 # sidebar
 defaults:
@@ -60,4 +60,10 @@ defaults:
       order: 2
 
 # Exclude from processing.
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ["config.ru", "Gemfile", "Gemfile.lock", "vendor"]
+
+hydejack:
+  dark_mode:
+    dynamic: false
+    icon: false
+    always: false
