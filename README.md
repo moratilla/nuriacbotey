@@ -14,11 +14,10 @@ This site uses [jekyllrb](https://jekyllrb.com/), and [hydejack](https://hydejac
 
 ## Usage
 
-Just download the code, and edit it, or use an online tool like [gitpod.io](https://gitpod.io/)
+Just download the code, and edit it, or use an online tool like [github.dev](https://github.dev/)
  to edit the code.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/moratilla/nuriacbotey)
-
+[Open in Github](https://github.dev/moratilla/nuriacbotey)
 
 ## Build
 
